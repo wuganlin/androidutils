@@ -6,8 +6,8 @@ import android.content.Context;
 
 import com.wgl.android.library.R;
 import com.wgl.android.library.baseapp.BaseApplication;
-import com.wgl.android.library.commonutils.NetWorkUtils;
-import com.wgl.android.library.commonwidget.LoadingDialog;
+import com.wgl.android.library.common.NetWorkUtils;
+import com.wgl.android.library.widget.LoadingDialog;
 
 import rx.Subscriber;
 

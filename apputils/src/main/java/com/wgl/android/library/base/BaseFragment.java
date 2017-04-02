@@ -8,8 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.wgl.android.library.R;
-import com.wgl.android.library.commonutils.ToastUitl;
-import com.wgl.android.library.commonwidget.LoadingDialog;
+import com.wgl.android.library.common.ToastUitl;
+import com.wgl.android.library.widget.LoadingDialog;
 
 import butterknife.ButterKnife;
 

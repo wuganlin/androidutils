@@ -12,10 +12,10 @@ import android.view.Window;
 
 import com.wgl.android.library.R;
 import com.wgl.android.library.baseapp.AppManager;
-import com.wgl.android.library.commonutils.ToastUitl;
-import com.wgl.android.library.commonwidget.LoadingDialog;
-import com.wgl.android.library.commonwidget.StatusBarCompat;
-import com.wgl.android.library.daynightmodeutils.ChangeModeController;
+import com.wgl.android.library.common.ToastUitl;
+import com.wgl.android.library.widget.LoadingDialog;
+import com.wgl.android.library.widget.StatusBarCompat;
+import com.wgl.android.library.daynightmode.ChangeModeController;
 
 import butterknife.ButterKnife;
 
